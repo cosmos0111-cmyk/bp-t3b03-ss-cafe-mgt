@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cosmos0111-cmyk.github.io/bp-t3b03-ss-cafe-mgt//sitemap.xml
